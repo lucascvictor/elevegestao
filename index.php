@@ -14,6 +14,7 @@
     <body class="fundo" >
         <div class="row">
             <div class="col s12 m6 l6 offset-l1 offset-m2 eleve">
+                <img src="https://cdnmpn.blob.core.windows.net/img/logo/eleve_white.png" style="width: 25%; height: 15%;">
                 <h3>Conheça o Eleve Gestão <br> e tenha o controle financeiro <br> total da sua empresa</h3>
                 <h5>
                     <ul>
@@ -30,4 +31,7 @@
             </div>
         </div>
     </body>
+    <script>
+        limpaCache();
+    </script>
 </html>

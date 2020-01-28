@@ -1,12 +1,20 @@
 .fundo {
     background-image: url("https://cdnmpn.blob.core.windows.net/suporte/ELEVE-BANNER.jpg");
+    background-repeat: no-repeat;
+    background-size:100%;
+    bottom: 0;
+    left: 0;
+    overflow: auto;
+    position: absolute;
+    right: 0;
+    top: 0;
     background-size: cover;
 }
 
 
 .eleve {
     color: white;
-    margin-top: 10%;
+    margin-top: 3%;
 }
 
 .eleve-btn {
@@ -15,6 +23,6 @@
 }
 
 .box_check {
-    width: 3%; 
+    width: 3.5%; 
     height: 3%;
 }
