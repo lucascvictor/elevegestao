@@ -2,3 +2,19 @@
     background-image: url("https://cdnmpn.blob.core.windows.net/suporte/ELEVE-BANNER.jpg");
     background-size: cover;
 }
+
+
+.eleve {
+    color: white;
+    margin-top: 10%;
+}
+
+.eleve-btn {
+    width: 60%;
+    color: #00a273;
+}
+
+.box_check {
+    width: 3%; 
+    height: 3%;
+}
