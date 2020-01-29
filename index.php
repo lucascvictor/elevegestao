@@ -14,7 +14,7 @@
     <body class="fundo" >
         <div class="row">
             <div class="col s12 m6 l6 offset-l1 offset-m2 eleve">
-                <img src="https://cdnmpn.blob.core.windows.net/img/logo/eleve_white.png" style="width: 170px; height: 100px; margin-bottom: 50px;">
+                <img src="https://cdnmpn.blob.core.windows.net/img/logo/eleve_white.png" style="width: 170px; height: 100px; margin-bottom: 45px;">
 
                 <h3>Conheça o Eleve Gestão <br> e tenha o controle financeiro <br> total da sua empresa</h3>
                 <h5>
@@ -25,7 +25,7 @@
                     </ul>
                 </h5>
                 <h5> Escolha o Eleve, a melhor opção em sistema <br> para controle financeiro e gestão de estoque </h5>
-                <br>
+
                 <h3 >
                     <a class="btn eleve-btn" href="https://elevesuasvendas.com.br" target="_balnk">Saiba Mais</a>
                 <h3>
